@@ -34,7 +34,7 @@ const CONFIG = {
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  MAGZINE_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/chat-community',
+  MAGZINE_SOCIAL_CARD_URL: 'https://cloudesx.com/article/chat-community',
 
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
@@ -42,8 +42,8 @@ const CONFIG = {
       name: '友情链接',
       menus: [
         {
-          title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          title: '二师兄的学习笔记',
+          href: 'https://cloudesx.com'
         },
         {
           title: 'NotionNext',
